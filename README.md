@@ -14,5 +14,5 @@
 
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3-M3nt0r&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3-M3nt0r&layout=compact&theme=radical)](https://github.com/Th3-M3nt0r/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3-M3nt0r&repo=AshutoshTripathy&theme=radical)](https://github.com/Th3-M3nt0r/AshutoshTripathy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3-M3nt0r&repo=Bingo-Game&theme=radical)](https://github.com/Th3-M3nt0r/Bingo-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3-M3nt0r&repo=AshutoshTripathy&theme=radical)](https://github.com/Th3-M3nt0r/AshutoshTripathy)
