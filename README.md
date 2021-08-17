@@ -11,6 +11,7 @@
   <img alt="C" height="50px" src="https://user-images.githubusercontent.com/38776894/129715090-ea9c18b8-e1a8-4b84-a390-ec50ba52c393.png"/>
   <img alt="Python" height="50px" src="https://user-images.githubusercontent.com/38776894/129716325-bb6b812c-e813-4803-a3cd-9b94bd404cf4.png"/>
   <img alt="Java" height="50px" src="https://user-images.githubusercontent.com/38776894/129719332-a1976a2c-cdca-4474-bd90-06d50af00285.png"/>
+  <img alt="Obj-C" height="50px" src="https://user-images.githubusercontent.com/38776894/129718234-5f85e28c-fd36-42e6-b7c4-5e73363e0ad1.png"/>
   <img alt="HTML" height="50px" src="https://user-images.githubusercontent.com/38776894/129719689-dc51faaf-a295-4670-8271-a0dd26093825.png"/>
   <img alt="CSS" height="50px" src="https://user-images.githubusercontent.com/38776894/129719723-6a7c8340-91f3-4def-9b76-8d1fd647813c.png"/>
   <img alt="SASS" height="50px" src="https://user-images.githubusercontent.com/38776894/129720105-9077465b-c096-42f0-87f4-2458b254ecc8.png"/>
@@ -18,7 +19,6 @@
   <img alt="ReactJS" height="50px" src="https://user-images.githubusercontent.com/38776894/129720509-3dc10362-de46-44ec-8046-eeb3af16d1bc.png"/>
   <img alt="jQuery" height="50px" src="https://user-images.githubusercontent.com/38776894/129720272-ca90fc63-29a1-44d5-bfa5-040973ba4c61.png"/>
   <img alt="PHP" height="50px" src="https://user-images.githubusercontent.com/38776894/129717684-8a89e820-f1e6-4827-8075-322a05c1796b.png"/>
-  <img alt="Obj-C" height="50px" src="https://user-images.githubusercontent.com/38776894/129718234-5f85e28c-fd36-42e6-b7c4-5e73363e0ad1.png"/>
   <img alt="BASH" height="50px" src="https://user-images.githubusercontent.com/38776894/129718544-16a553dd-5bd9-4048-8ddb-60b559a97a35.png"/>
   
 </div>
