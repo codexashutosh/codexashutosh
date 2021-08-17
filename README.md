@@ -25,7 +25,6 @@
 
 <!-- <img height="16px" src="https://user-images.githubusercontent.com/38776894/129335624-64650ee3-855c-4d1d-9904-bf1fd4c3802b.jpg" />  -->
 ### Download my Resume <a href="https://drive.google.com/uc?export=download&id=1eCQiXRKXRFhQIvCGWNyY0kV2zIuujIid"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
-<hr/>
 
 <!-- ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3-M3nt0r&show_icons=true&theme=radical)  -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3-M3nt0r&repo=Bingo-Game&theme=radical)](https://github.com/Th3-M3nt0r/Bingo-Game) 
