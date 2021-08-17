@@ -1,18 +1,12 @@
 ### Hi there! I'm Ashutosh aka [Th3-M3nt0r](https://ashutoshtripathy.com/) 👋 
 
-> 🔭 I’m currently working on **UI Development**.
-
-> 🌱 I’m currently learning **ReactJS**.
-
-> 👯 I’m looking to collaborate on **GitHub**. <!--- 🤔 I’m looking for help with -->
-
-> 💬 Ask me about **Python**:heart:, **Web Development**, **Linux**.
-
-> 📫 How to reach me: **For quick queries - [Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** OR **Email me - [contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**.
-
-> 😄 Pronouns: **He/His**.
-
-> ⚡ Fun fact: ***I know over 10 languages but guess what? Can't speak in them!***
+> 🔭 I’m currently working on **UI Development**. <br/> 
+> 🌱 I’m currently learning **ReactJS**. <br/>
+> 👯 I’m looking to collaborate on **GitHub**. <!--- 🤔 I’m looking for help with --><br/>
+> 💬 Ask me about **Python**:heart:, **Web Development**, **Linux**. <br/>
+> 📫 How to reach me: **For quick queries - [Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** OR **Email me - [contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**. <br/>
+> 😄 Pronouns: **He/His**. <br/>
+> ⚡ Fun fact: ***I know over 10 languages but guess what? Can't speak in them!*** 
 
 <!-- <img height="16px" src="https://user-images.githubusercontent.com/38776894/129335624-64650ee3-855c-4d1d-9904-bf1fd4c3802b.jpg" />  -->
 ### Download my Resume <a href="https://drive.google.com/uc?export=download&id=1eCQiXRKXRFhQIvCGWNyY0kV2zIuujIid"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
