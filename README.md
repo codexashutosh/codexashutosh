@@ -8,7 +8,7 @@
 
 > 💬 Ask me about **Python**:heart:, **Web Development**, **Linux**.
 
-> 📫 How to reach me: **Quick queries:question: [Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** OR **Something else:question: [Email me](mailto:standn8@gmail.com?cc=tripathyashutosh88@gmail.com)**.
+> 📫 How to reach me: **For quick queries - [Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** OR **Email me - [contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**.
 
 > 😄 Pronouns: **He/His**.
 
