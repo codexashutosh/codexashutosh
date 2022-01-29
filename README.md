@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Th3-M3nt0r&color=blue&style=plastic)
 ### Hi there! I'm Ashutosh aka [Th3-M3nt0r](https://ashutoshtripathy.com/) 👋 
 
 > 🔭 I’m currently working on **UI Development**. <br/> 
