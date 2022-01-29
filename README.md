@@ -1,7 +1,7 @@
 ### Hi there! I'm Ashutosh aka [Th3-M3nt0r](https://ashutoshtripathy.com/) 👋 
 
 > 🔭 I’m currently working on **UI Development**. <br/> 
-> 🌱 I’m currently learning **ReactJS**. <br/>
+> 🌱 I’m currently learning **C++**. <br/>
 > 👯 I’m looking to collaborate on **GitHub**. <!--- 🤔 I’m looking for help with --><br/>
 > 💬 Ask me about **Python**:heart:, **Web Development**, **Linux**. <br/>
 > 📫 How to reach me: **For quick queries - [Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** OR **Email me - [contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**. <br/>
