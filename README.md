@@ -3,34 +3,37 @@
 
 > 🔭 I’m currently working on **UI Development**. <br/> 
 > 🌱 I’m currently learning **C++**. <br/>
-> 👯 I’m looking to collaborate on **GitHub**. <!--- 🤔 I’m looking for help with --><br/>
+> 👯 I’m looking to collaborate on **GitHub**. <br/>
+> 🤔 I’m looking for help with **Competitive/Dynamic Programming**. <br />
 > 💬 Ask me about **Python**:heart:, **Web Development**, **Linux**. <br/>
 > 📫 How to reach me: **For quick queries - [Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** OR **Email me - [contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**. <br/>
 > 😄 Pronouns: **He/His**. <br/>
 > ⚡ Fun fact: ***I know over 10 languages but guess what? Can't speak in them!*** 
+#### Programming Experience (Over 3,000 lines)
 <div>
-  <img alt="C" height="50px" src="https://user-images.githubusercontent.com/38776894/129715090-ea9c18b8-e1a8-4b84-a390-ec50ba52c393.png"/>
-  <img alt="Python" height="50px" src="https://user-images.githubusercontent.com/38776894/129716325-bb6b812c-e813-4803-a3cd-9b94bd404cf4.png"/>
-  <img alt="Java" height="50px" src="https://user-images.githubusercontent.com/38776894/129719332-a1976a2c-cdca-4474-bd90-06d50af00285.png"/>
-  <img alt="Obj-C" height="50px" src="https://user-images.githubusercontent.com/38776894/129718234-5f85e28c-fd36-42e6-b7c4-5e73363e0ad1.png"/>
-  <img alt="HTML" height="50px" src="https://user-images.githubusercontent.com/38776894/129719689-dc51faaf-a295-4670-8271-a0dd26093825.png"/>
-  <img alt="CSS" height="50px" src="https://user-images.githubusercontent.com/38776894/129719723-6a7c8340-91f3-4def-9b76-8d1fd647813c.png"/>
-  <img alt="SASS" height="50px" src="https://user-images.githubusercontent.com/38776894/129720105-9077465b-c096-42f0-87f4-2458b254ecc8.png"/>
-  <img alt="JS" height="50px" src="https://user-images.githubusercontent.com/38776894/129719754-d0473e26-c773-47dc-953d-99ec414d621b.png"/>
-  <img alt="ReactJS" height="50px" src="https://user-images.githubusercontent.com/38776894/129720509-3dc10362-de46-44ec-8046-eeb3af16d1bc.png"/>
-  <img alt="jQuery" height="50px" src="https://user-images.githubusercontent.com/38776894/129720272-ca90fc63-29a1-44d5-bfa5-040973ba4c61.png"/>
-  <img alt="PHP" height="50px" src="https://user-images.githubusercontent.com/38776894/129717684-8a89e820-f1e6-4827-8075-322a05c1796b.png"/>
-  <img alt="BASH" height="50px" src="https://user-images.githubusercontent.com/38776894/129718544-16a553dd-5bd9-4048-8ddb-60b559a97a35.png"/>
-  
+  <img src="https://user-images.githubusercontent.com/38776894/151657735-7a3199b2-b87d-45d2-a813-9f48f19ffbce.png"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657859-f1cb53a7-79e1-46b2-a5bc-fadefc679891.png"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657879-3145d8ff-8e0c-499b-b3a8-96900c4bb157.png"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657886-983ec03c-a159-416a-a8e2-d78eef30fd76.png"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657905-6e7e3d97-656c-4208-bdd5-f454c26cfd4d.png"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657890-cfbb3222-7bf3-47a2-bbbc-fcbe6e72fb93.png"/>
+</div>
+
+#### Front-end Experience (Over 10,000 lines)
+<div>
+  <img src="https://user-images.githubusercontent.com/38776894/151657894-bceb4bf0-3cdd-4065-9158-e3e0dafc0c9c.png"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657897-2d30d2db-e299-4ac1-a65b-a755c5b14c8d.png"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657904-8e91cf61-d475-412c-8657-a602ae959398.png"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657898-8b63c435-f1f8-41e2-996f-235ea74da757.png"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657902-26e0748d-6c00-4c63-958c-434e6fbb77f5.png"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657903-07fbf8ec-7f34-45e2-8d38-e044439dcf10.png"/>
 </div>
 
 <!-- <img height="16px" src="https://user-images.githubusercontent.com/38776894/129335624-64650ee3-855c-4d1d-9904-bf1fd4c3802b.jpg" />  -->
-### Download my Resume <a href="https://drive.google.com/uc?export=download&id=1eCQiXRKXRFhQIvCGWNyY0kV2zIuujIid"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
+### Download my Resume <a href="https://github.com/Th3-M3nt0r/Th3-M3nt0r/files/7963526/Ashutosh.Tripathy.Resume.pdf"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
 
 <!-- ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3-M3nt0r&show_icons=true&theme=radical)  -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3-M3nt0r&repo=Bingo-Game&theme=radical)](https://github.com/Th3-M3nt0r/Bingo-Game) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3-M3nt0r&layout=compact&theme=radical)](https://github.com/Th3-M3nt0r/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3-M3nt0r&repo=Bingo-Game&theme=radical)](https://github.com/Th3-M3nt0r/Bingo-Game) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3-M3nt0r&layout=compact&theme=radical)](https://github.com/Th3-M3nt0r/github-readme-stats) 
 <br/>
 
 **Connect with me:** 
