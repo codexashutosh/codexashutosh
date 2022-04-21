@@ -2,7 +2,7 @@
 ### Hi there! I'm Ashutosh aka [Th3-M3nt0r](https://ashutoshtripathy.com/) 👋 
 
 > 🔭 I’m currently working on **UI Development**. <br/> 
-> 🌱 I’m currently learning **C++**. <br/>
+> 🌱 I’m currently learning **JS**. <br/>
 > 👯 I’m looking to collaborate on **GitHub**. <br/>
 > 🤔 I’m looking for help with **Competitive/Dynamic Programming**. <br />
 > 💬 Ask me about **Python**:heart:, **Web Development**, **Linux**. <br/>
@@ -30,7 +30,7 @@
 </div>
 
 <!-- <img height="16px" src="https://user-images.githubusercontent.com/38776894/129335624-64650ee3-855c-4d1d-9904-bf1fd4c3802b.jpg" />  -->
-### Download my Resume <a href="https://github.com/Th3-M3nt0r/Th3-M3nt0r/files/7963526/Ashutosh.Tripathy.Resume.pdf"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
+### Download my Resume <a href="https://github.com/Th3-M3nt0r/Th3-M3nt0r/files/8527411/Ashutosh.Tripathy.Resume.pdf"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
 
 <!-- ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3-M3nt0r&show_icons=true&theme=radical)  -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3-M3nt0r&repo=Bingo-Game&theme=radical)](https://github.com/Th3-M3nt0r/Bingo-Game) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3-M3nt0r&layout=compact&theme=radical)](https://github.com/Th3-M3nt0r/github-readme-stats) 
