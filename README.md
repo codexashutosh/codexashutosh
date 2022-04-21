@@ -7,8 +7,7 @@
 > 🤔 I’m looking for help with **Competitive/Dynamic Programming**. <br />
 > 💬 Ask me about **Python**:heart:, **Web Development**, **Linux**. <br/>
 > 📫 How to reach me: **For quick queries - [Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** OR **Email me - [contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**. <br/>
-> 😄 Pronouns: **He/His**. <br/>
-> ⚡ Fun fact: ***I know over 10 languages but guess what? Can't speak in them!*** 
+<!-- > ⚡ Fun fact: ***I know over 10 languages but guess what? Can't speak in them!***  -->
 #### Programming Experience (Over 3,000 lines)
 <div>
   <img src="https://user-images.githubusercontent.com/38776894/151657735-7a3199b2-b87d-45d2-a813-9f48f19ffbce.png"/>
