@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Th3-M3nt0r&color=blueviolet&style=plastic)
-### Hi there! I'm Ashutosh aka [Th3-M3nt0r](https://ashutoshtripathy.com/) 👋 
+### Hi there! I'm Ashutosh aka [Codexashutosh](https://ashutoshtripathy.com/) 👋 
 
 > 🔭 I’m currently working on **UI Development**. <br/> 
 > 🌱 I’m currently learning **JS**. <br/>
