@@ -2,7 +2,7 @@
 ### Hi there! I'm Ashutosh aka [Codexashutosh](https://ashutoshtripathy.com/) 👋 
 
 > 🔭 I’m currently working on **UI Development**. <br/> 
-> 🌱 I’m currently learning **JS**. <br/>
+> 🌱 I’m currently learning **System Design**. <br/>
 > 👯 I’m looking to collaborate on **GitHub**. <br/>
 > 🤔 I’m looking for help with **Competitive/Dynamic Programming**. <br />
 > 💬 Ask me about **Python**:heart:, **Web Development**, **Linux**. <br/>
