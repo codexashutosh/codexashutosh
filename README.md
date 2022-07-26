@@ -33,10 +33,10 @@
 
 **Connect with me:** 
 
-<a href="https://www.linkedin.com/in/tripathyashutosh88/"><img height="26px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Linkedin-logo.png"/></a>
-<a href="https://github.com/Th3-M3nt0r"><img height="26px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Octocat-Github-logo.png"/></a>
-<a href="https://github.com/Th3-M3nt0r"><img height="26px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Hackerrank-logo.png"/></a>
-<a href="https://twitter.com/FueraDeNada"><img height="26px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Twitter-logo.png"/></a>
+<a href="https://www.linkedin.com/in/codexashutosh/"><img height="26px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Linkedin-logo.png"/></a>
+<a href="https://github.com/codexashutosh"><img height="26px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Octocat-Github-logo.png"/></a>
+<a href="https://www.hackerrank.com/codexashutosh"><img height="26px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Hackerrank-logo.png"/></a>
+<a href="https://twitter.com/codexashutosh"><img height="26px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Twitter-logo.png"/></a>
 <a href="https://www.quora.com/profile/Ashutosh-Tripathy-10"><img height="26px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Quora-logo.png"/></a>
 <br/>
 <hr/>
