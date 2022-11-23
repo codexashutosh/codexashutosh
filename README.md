@@ -2,9 +2,8 @@
 ### Hi there! I'm Ashutosh aka [Codexashutosh](https://ashutoshtripathy.com/) 👋 
 
 > 🔭 I’m currently working as a **Python Developer**. <br/> 
-> 🌱 I’m currently learning **Competitive Programming**. <br/>
+> 🌱 I’m currently learning **Flask**. <br/>
 > 👯 I’m looking to collaborate on **GitHub**. <br/>
-> 🤔 I’m looking for help with **Competitive/Dynamic Programming**. <br />
 > 💬 Ask me about **Python**:heart:, **Web Development**, **Linux**. <br/>
 > 📫 How to reach me: **For quick queries - [Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** OR **Email me - [contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**. <br/>
 <!-- > ⚡ Fun fact: ***I know over 10 languages but guess what? Can't speak in them!***  -->
@@ -30,7 +29,7 @@
 </div>
 
 <!-- <img height="16px" src="https://user-images.githubusercontent.com/38776894/129335624-64650ee3-855c-4d1d-9904-bf1fd4c3802b.jpg" />  -->
-### Download my Resume <a href="https://github.com/codexashutosh/codexashutosh/files/9535580/Ashutosh_Tripathy_Resume.pdf"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
+### Download my Resume <a href="https://github.com/codexashutosh/codexashutosh/files/10073268/Ashutosh.Tripathy.Py.Resume.pdf"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
 
 **Connect with me:** 
 
