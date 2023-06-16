@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=Th3-M3nt0r&color=blueviolet&style=plastic)
 ### Hi! I'm Ashutosh Tripathy aka [codeXashutosh](https://ashutoshtripathy.com/) 👋 
 
-> 🔭 I’m currently working as a **Python Developer**. <br/> 
-> 🌱 I’m currently learning **MongoDB**. <br/>
+> 🔭 I’m currently working as a **Fullstack Data Engineer**. <br/> 
+> 🌱 I’m currently learning **Angular**. <br/>
 > 👯 I’m looking to collaborate on **GitHub and YouTube**. <br/>
 > 💬 Ask me about **Python**:heart:, **Data Analysis** and **UI Development**. <br/>
 > 📫 How to reach me: **[Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** or **[contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**. <br/>
@@ -28,22 +28,25 @@
   <img src="https://user-images.githubusercontent.com/38776894/203498974-b2417978-d939-4fad-bd5c-a9fccc41b9c3.png"/ height="32px">
 </div>
 
-#### UI/UX Experience 
+#### Fullstack Experience 
 <div>
-  <img src="https://user-images.githubusercontent.com/38776894/151657894-bceb4bf0-3cdd-4065-9158-e3e0dafc0c9c.png"/ height="32px">
-  <img src="https://user-images.githubusercontent.com/38776894/151657897-2d30d2db-e299-4ac1-a65b-a755c5b14c8d.png"/ height="32px">
-  <img src="https://user-images.githubusercontent.com/38776894/151657904-8e91cf61-d475-412c-8657-a602ae959398.png"/ height="32px">
-  <img src="https://user-images.githubusercontent.com/38776894/151657898-8b63c435-f1f8-41e2-996f-235ea74da757.png"/ height="32px">
-  <img src="https://user-images.githubusercontent.com/38776894/151657902-26e0748d-6c00-4c63-958c-434e6fbb77f5.png"/ height="32px">
-  <img src="https://user-images.githubusercontent.com/38776894/151657903-07fbf8ec-7f34-45e2-8d38-e044439dcf10.png"/ height="32px">
-  <img src="https://user-images.githubusercontent.com/38776894/189470305-f8a32b96-1107-4a0a-9df5-62a174595501.png"/ height="32px">
+  <img src="https://user-images.githubusercontent.com/38776894/151657894-bceb4bf0-3cdd-4065-9158-e3e0dafc0c9c.png" height="32px"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657897-2d30d2db-e299-4ac1-a65b-a755c5b14c8d.png" height="32px"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657904-8e91cf61-d475-412c-8657-a602ae959398.png" height="32px"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657898-8b63c435-f1f8-41e2-996f-235ea74da757.png" height="32px"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657902-26e0748d-6c00-4c63-958c-434e6fbb77f5.png" height="32px"/>
+  <img src="https://user-images.githubusercontent.com/38776894/151657903-07fbf8ec-7f34-45e2-8d38-e044439dcf10.png" height="32px"/>
+  <img src="https://user-images.githubusercontent.com/38776894/189470305-f8a32b96-1107-4a0a-9df5-62a174595501.png" height="32px"/>
+  <img src="https://github.com/codexashutosh/codexashutosh/assets/38776894/6b990128-ea4d-474f-8b22-6040297047ba" height="32px"/>
+  <img src="https://github.com/codexashutosh/codexashutosh/assets/38776894/dcaf5377-c6af-4d81-9b1c-e23e04bb5e37" height="32px"/>
+  <img src="https://github.com/codexashutosh/codexashutosh/assets/38776894/58ba1746-b2f0-447e-9c7f-6625eb21310d" height="32px"/>
 </div>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=codexashutosh&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  -->
 
 <!-- <img height="16px" src="https://user-images.githubusercontent.com/38776894/129335624-64650ee3-855c-4d1d-9904-bf1fd4c3802b.jpg" />  -->
-### Download my resume <a href="https://github.com/codexashutosh/codexashutosh/files/10073268/Ashutosh.Tripathy.Py.Resume.pdf"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
+### Download my resume <a href="https://github.com/codexashutosh/codexashutosh/files/11772121/AshutoshTripathy_FSDE.pdf"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
 
 **Connect with me:** 
 <a href="https://www.linkedin.com/in/codexashutosh/"><img height="16px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Linkedin-logo.png"/></a>
