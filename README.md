@@ -2,7 +2,7 @@
 ### Hi! I'm Ashutosh Tripathy aka [codeXashutosh](https://ashutoshtripathy.com/) 👋 
 
 > 🔭 I’m currently working as a **Fullstack Data Engineer**. <br/> 
-> 🌱 I’m currently learning **InfluxDB**. <br/>
+> 🌱 I’m currently learning **Competetive Programming**. <br/>
 > 👯 I’m looking to collaborate on **GitHub and YouTube**. <br/>
 > 💬 Ask me about **Python**:heart:, **Data Analysis** and **UI Development**. <br/>
 > 📫 How to reach me: **[Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** or **[contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**. <br/>
@@ -44,7 +44,8 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=codexashutosh&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  -->
-
+#### Recently joined Leetcode 
+![LeetCode Stats](https://leetcard.jacoblin.cool/codexashutosh?theme=dark&font=Palanquin)
 <!-- <img height="16px" src="https://user-images.githubusercontent.com/38776894/129335624-64650ee3-855c-4d1d-9904-bf1fd4c3802b.jpg" />  -->
 ### Download my resume <a href="https://github.com/codexashutosh/codexashutosh/files/11772121/AshutoshTripathy_FSDE.pdf"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
 
