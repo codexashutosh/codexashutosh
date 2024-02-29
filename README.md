@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=Th3-M3nt0r&color=blueviolet&style=plastic)
 ### Hi! I'm Ashutosh Tripathy aka [codeXashutosh](https://ashutoshtripathy.com/) 👋 
 
-> 🔭 I’m currently working as a **Data Engineer**. <br/> 
-> 🌱 I’m currently learning **Competitive Programming**. <br/>
+> 🔭 I’m currently working as a **Sr. Python Developer**. <br/> 
+> 🌱 I’m currently learning **AWS**. <br/>
 > 👯 I’m looking to collaborate on **GitHub and YouTube**. <br/>
 > 💬 Ask me about **Python**:heart: and **Data Engineering**. <br/>
 > 📫 How to reach me: **[Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** or **[contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**. <br/>
