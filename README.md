@@ -40,6 +40,7 @@
   <img src="https://github.com/codexashutosh/codexashutosh/assets/38776894/6b990128-ea4d-474f-8b22-6040297047ba" height="32px"/>
   <img src="https://github.com/codexashutosh/codexashutosh/assets/38776894/dcaf5377-c6af-4d81-9b1c-e23e04bb5e37" height="32px"/>
   <img src="https://github.com/codexashutosh/codexashutosh/assets/38776894/58ba1746-b2f0-447e-9c7f-6625eb21310d" height="32px"/>
+  <img src="https://github.com/codexashutosh/codexashutosh/assets/38776894/b937e5f4-d698-4137-8ebd-9f75d1177198" height="32px"/>
 </div>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=codexashutosh&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
