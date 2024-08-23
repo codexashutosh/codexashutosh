@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Th3-M3nt0r&color=blueviolet&style=plastic)
 ### Hi! I'm Ashutosh Tripathy aka [codeXashutosh](https://ashutoshtripathy.com/) 👋 
 
-> 🔭 I’m currently working as a **Sr. Python Developer**. <br/> 
+> 🔭 I’m currently working as a **Data Engineer**. <br/> 
 > 🌱 I’m currently learning **GenAI**. <br/>
 > 👯 I’m looking to collaborate on **GitHub and YouTube**. <br/>
 > 💬 Ask me about **Python**:heart: and **Data Engineering**. <br/>
