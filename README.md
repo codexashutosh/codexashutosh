@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Th3-M3nt0r&color=blueviolet&style=plastic)
-### Hi! I'm Ashutosh Tripathy aka [codeXashutosh](https://ashutoshtripathy.com/) 👋 
+### Hi! I'm Ashutosh Tripathy aka [codexashutosh](https://ashutoshtripathy.com/) 👋 
 
 > 🔭 I’m currently working as a **Senior Data Engineer**. <br/> 
 > 🌱 I’m currently learning **GenAI**. <br/>
@@ -48,7 +48,9 @@
 #### Recently joined Leetcode 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/codexashutosh?theme=dark&font=Palanquin)
 <!-- <img height="16px" src="https://user-images.githubusercontent.com/38776894/129335624-64650ee3-855c-4d1d-9904-bf1fd4c3802b.jpg" />  -->
-### Download my resume <a href="https://github.com/codexashutosh/codexashutosh/files/11772121/AshutoshTripathy_FSDE.pdf"> <img height="16px" src="https://user-images.githubusercontent.com/38776894/129336598-9a20b448-660b-402e-9c4c-83d0603fd9c5.gif" /> </a>
+**Visit my website: www.ashutoshtripathy.com**
+
+**Visit my blog: www.ashutoshtripathy.com/blog**
 
 **Connect with me:** 
 <a href="https://www.linkedin.com/in/codexashutosh/"><img height="16px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Linkedin-logo.png"/></a>
