@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Th3-M3nt0r&color=blueviolet&style=plastic)
-### Hi! I'm Ashutosh Tripathy aka [codexashutosh](https://ashutoshtripathy.com/) 👋 
+### Hi! I'm Ashutosh Tripathy aka [pydoctor](https://ashutoshtripathy.com/) 👋 
 
 > 🔭 I’m currently working as a **Senior Data Engineer**. <br/> 
 > 🌱 I’m currently learning **GenAI**. <br/>
@@ -46,17 +46,17 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=codexashutosh&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  -->
 #### Recently joined Leetcode 
-![LeetCode Stats](https://leetcard.jacoblin.cool/codexashutosh?theme=dark&font=Palanquin)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pydoctor?theme=dark&font=Palanquin)
 <!-- <img height="16px" src="https://user-images.githubusercontent.com/38776894/129335624-64650ee3-855c-4d1d-9904-bf1fd4c3802b.jpg" />  -->
 **Visit my website: www.ashutoshtripathy.com**
 
 **Visit my blog: www.ashutoshtripathy.com/blog**
 
 **Connect with me:** 
-<a href="https://www.linkedin.com/in/codexashutosh/"><img height="16px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Linkedin-logo.png"/></a>
-<a href="https://github.com/codexashutosh"><img height="16px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Octocat-Github-logo.png"/></a>
+<a href="https://www.linkedin.com/in/pydoctor/"><img height="16px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Linkedin-logo.png"/></a>
+<a href="https://github.com/pydoctor"><img height="16px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Octocat-Github-logo.png"/></a>
 <a href="https://www.hackerrank.com/codexashutosh"><img height="16px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Hackerrank-logo.png"/></a>
-<a href="https://twitter.com/codexashutosh"><img height="16px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Twitter-logo.png"/></a>
+<a href="https://twitter.com/_pydoctor"><img height="16px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Twitter-logo.png"/></a>
 <a href="https://www.quora.com/profile/Ashutosh-Tripathy-10"><img height="16px" src="https://github.com/Th3-M3nt0r/Th3-M3nt0r/blob/main/assets/Quora-logo.png"/></a>
 <br/>
 <hr/>
