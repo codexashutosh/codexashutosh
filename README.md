@@ -46,7 +46,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=codexashutosh&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  -->
 #### Recently joined Leetcode 
-![LeetCode Stats](https://leetcard.jacoblin.cool/codexashutosh?theme=dark&font=Palanquin)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pydoctor?theme=dark&font=Palanquin)
 <!-- <img height="16px" src="https://user-images.githubusercontent.com/38776894/129335624-64650ee3-855c-4d1d-9904-bf1fd4c3802b.jpg" />  -->
 **Visit my website: www.ashutoshtripathy.com**
 
