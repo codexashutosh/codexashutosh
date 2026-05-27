@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=Th3-M3nt0r&color=blueviolet&style=plastic)
 ### Hi! I'm Ashutosh Tripathy aka [codexashutosh](https://ashutoshtripathy.com/) 👋 
 
-> 🔭 I’m currently working as a **Data Scientist**. <br/> 
-> 🌱 I’m currently learning **GenAI**. <br/>
+> 🔭 I’m currently working as a **Senior Data Engineer**. <br/> 
+> 🌱 I’m currently learning **Generative AI**. <br/>
 > 👯 I’m looking to collaborate on **GitHub and YouTube**. <br/>
-> 💬 Ask me about **Python**:heart: and **Data Science**. <br/>
+> 💬 For mentorship in **Python**:heart: and **Data Science & Engineering** - **[https://topmate.io/codexashutosh/](https://topmate.io/codexashutosh/)**.<br/>
 > 📫 How to reach me: **[Post here](https://github.com/Th3-M3nt0r/Th3-M3nt0r/issues)** or **[contact@ashutoshtripathy.com](mailto:contact@ashutoshtripathy.com)**. <br/>
 <!-- > ⚡ Fun fact: ***I know over 10 languages but guess what? Can't speak in them!***  -->
 #### Programming Experience 
